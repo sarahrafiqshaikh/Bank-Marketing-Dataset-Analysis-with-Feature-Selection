@@ -23,7 +23,8 @@ pip install pandas numpy scikit-learn opendatasets ydata_profiling
 ## Usage
 
 1. Clone the repository
-2. Run the Jupyter notebook `Bank_Marketing_Dataset_Analysis_with_Feature_Selection.ipynb`
+2. Run the Jupyter notebook
+`Bank_Marketing_Dataset_Analysis_with_Feature_Selection.ipynb`
 
 ## Methods
 
