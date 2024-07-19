@@ -5,6 +5,12 @@
 
 The "Bank Marketing" dataset from Kaggle contains 20 features and a binary target variable. The goal is to predict if a client will subscribe to a term deposit.
 
+## Project Structure
+  - `Bank_Marketing_Dataset_Analysis_with_Feature_Selection.ipynb`: Jupyter notebook containing the full analysis
+  - `README.md`: This file, providing an overview of the project
+  - `bank_marketing.html`: This file, providing quick overview at glance of the dataset
+  - `bank-marketing-dataset`: This file, providing dataset of the project
+
 ## Requirements
 
 - Python 3.x
